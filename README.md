@@ -1,0 +1,2 @@
+# js-adinna
+javascript code
